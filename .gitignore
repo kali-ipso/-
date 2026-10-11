@@ -2,3 +2,7 @@
 .env.*
 !.env.example
 API_KEYS*
+__pycache__/
+*.pyc
+*.db
+logs/
